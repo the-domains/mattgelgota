@@ -1,0 +1,28 @@
+name: mattgelgota
+favicon: null
+layout_spectrum: 0.5816975191701204
+typography_spectrum: 0.1587553950957954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.466556895757094
+  lightness: 0.9894761249888688
+  saturation: 0.29833581089042127
+  rhythmicContrast: 0.06448912993073463
+purpose: []
